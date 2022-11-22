@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553573302667",
+    "project_id": "onsesignal-6faeb",
+    "storage_bucket": "onsesignal-6faeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553573302667:android:39e72db48647b8246def8e",
+        "android_client_info": {
+          "package_name": "com.example.onsesignal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553573302667-p83h0tghcee0cep66ui4a2g0ua13giiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD53u7iiShuKqkoz5kEgbHUAxqCt3PXlrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553573302667-p83h0tghcee0cep66ui4a2g0ua13giiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
